@@ -1,4 +1,4 @@
-[
+var cryptoZombiesABI = [
     {
       "constant": false,
       "inputs": [
